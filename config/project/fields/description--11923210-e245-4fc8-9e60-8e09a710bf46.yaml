@@ -1,0 +1,19 @@
+columnSuffix: efygfqge
+contentColumnType: text
+fieldGroup: 19fd73a5-2f81-42dd-8a69-2bcbd0c4053a # Common
+handle: description
+instructions: ''
+name: Description
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: '1'
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

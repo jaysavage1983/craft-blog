@@ -1,0 +1,65 @@
+dateModified: 1692125139
+email:
+  fromEmail: jgreentreevin@gmail.com
+  fromName: Craft3
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    1ff16502-45b3-4245-b98f-86306a9937d1: 'Site Description' # Site Description
+    2d8e074c-85a6-497b-98d6-a482a3139729: Blog # Blog
+    3c379919-4974-41d5-8945-1f38b4fc8c2d: Image # Image
+    4b0da9c7-54c9-4148-9db9-740282add251: Blog # Blog
+    6a001e33-5eaf-4c91-831a-b4dae184aa89: 'Page Content' # Page Content
+    6db6a98f-bd9f-4403-ba6c-1a48a7ae4e60: 'Post Content' # Post Content
+    6f648318-670a-4476-8f5a-e414b9d78585: Tabs # Tabs
+    8e875167-0fd4-4b10-afec-2da31220535c: Tabs # Tabs
+    19fd73a5-2f81-42dd-8a69-2bcbd0c4053a: Common # Common
+    38d07a31-f606-4f26-bb3b-06e9617f573c: 'Feature Image' # Feature Image
+    46be2136-c377-4316-8338-1baaba27a6ec: Text # Text
+    74c4700b-51f5-4a51-b2b9-365b66f247b3: Craft3 # Craft3
+    87cd3434-9d55-4bda-ace6-858f081bcc3e: Image # Image
+    95c13d76-f339-4f63-a53b-25acea48b3a7: Default # Default
+    354c8863-5272-423a-9ba3-f485177a6b48: 'Tab Content' # Tab Content
+    2137e99f-5341-4431-aa2d-8c2a065e349c: 'Tab Name' # Tab Name
+    5654ca5a-4fdc-488b-ac16-d899787a2868: Pages # Pages
+    8564ba03-2255-4d29-9b39-165ca9153573: Default # Default
+    4460041c-6216-4da9-89cb-aa039fb6e89d: Pages # Pages
+    11923210-e245-4fc8-9e60-8e09a710bf46: Description # Description
+    63151469-da7c-4e95-899a-a900b5235d03: 'Post Categories' # Post Categories
+    a6c183eb-f1db-483c-99e7-f52162ec4fab: Blog # Blog
+    a187e947-9a10-462f-896f-3c45ffb50280: Globals # Globals
+    a7488aa4-24c8-4ea2-b371-e64a5bc059f6: Blog # Blog
+    adac17b6-53ce-45d5-919c-a3f39e8733c8: Text # Text
+    b3674be7-578d-4a77-a8c7-97fe46b78dc6: Home # Home
+    b716360c-717e-495c-a650-d7f9cf846556: 'Blog Categories' # Blog Categories
+    c9c0ffd8-0dd4-4914-a5ae-0e902352fc5c: Home # Home
+    cc046248-c283-475f-99af-868d1826723c: 'Show breadcrumbs' # Show breadcrumbs
+    eaf5bdf2-b1ff-454e-9d01-4189a4870e0f: 'Blog Entries' # Blog Entries
+    ed303e3a-a5c0-40d0-9279-96b417147e4c: Summary # Summary
+    f5fef398-ac72-479d-a160-6c3a943f3704: CraftDev # CraftDev
+    fa38eb1f-c53b-4ceb-b571-a3ef8b3193d0: Globals # Globals
+plugins:
+  cheat-sheet:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+    settings:
+      cheatSheetRoute: docs
+      cheatSheetWhitespace: \t
+  prism:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.0.0
+system:
+  edition: pro
+  live: true
+  name: ''
+  retryDuration: null
+  schemaVersion: 3.8.0.1
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

@@ -1,0 +1,41 @@
+field: 6db6a98f-bd9f-4403-ba6c-1a48a7ae4e60 # Post Content
+fieldLayouts:
+  f8ea8c6a-444c-4a29-8c5f-f96b13fda5e4:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: adac17b6-53ce-45d5-919c-a3f39e8733c8 # Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  adac17b6-53ce-45d5-919c-a3f39e8733c8: # Text
+    columnSuffix: decagrys
+    contentColumnType: text
+    fieldGroup: null
+    handle: text
+    instructions: ''
+    name: Text
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: '1'
+      columnType: null
+      initialRows: '4'
+      multiline: '1'
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: text
+name: Text
+sortOrder: 1

@@ -1,0 +1,19 @@
+columnSuffix: guyqdrzm
+contentColumnType: text
+fieldGroup: 2d8e074c-85a6-497b-98d6-a482a3139729 # Blog
+handle: summary
+instructions: ''
+name: Summary
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: '1'
+  columnType: null
+  initialRows: '1'
+  multiline: '1'
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

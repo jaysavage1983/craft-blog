@@ -1,0 +1,11 @@
+{% extends '_layouts/default' %}
+
+{% set posts = craft.entries.section('blogEntries').all() %}
+
+{% block content %}
+	<div class="container">
+		<div class="row full-width">
+			{% include "_includes/listing" with { posts: posts } only %}
+		</div>
+	</div>
+{% endblock %}

@@ -1,0 +1,14 @@
+columnSuffix: egmrfcgw
+contentColumnType: boolean
+fieldGroup: 19fd73a5-2f81-42dd-8a69-2bcbd0c4053a # Common
+handle: showBreadcrumbs
+instructions: 'Do you want to display breadcrumb links on this page?'
+name: 'Show breadcrumbs'
+searchable: false
+settings:
+  default: false
+  offLabel: 'No'
+  onLabel: 'Yes'
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Lightswitch

@@ -1,0 +1,16 @@
+columnSuffix: dsejaxtd
+contentColumnType: string
+fieldGroup: 2d8e074c-85a6-497b-98d6-a482a3139729 # Blog
+handle: postContent
+instructions: ''
+name: 'Post Content'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_postcontent}}'
+  maxBlocks: ''
+  minBlocks: ''
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

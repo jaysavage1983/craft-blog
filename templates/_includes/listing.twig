@@ -1,0 +1,14 @@
+<div class="post-list my-10 flex">
+  {% for post in posts %}
+    <a href="{{ post.url }}" class="flex shadow-lg rounded items-center justify-center overflow-hidden">
+      {% if post.featureImage|length %}
+        {% set image = post.featureImage.one() %}
+        <div class="w-1/4">
+          <img src="{{ image.getUrl({ width: 300, height: 300}) }}" alt="{{ image.title }}" class="block"/>
+        </div>
+      {% endif %}
+      <h3 class="title">{{ post.title }}</h3>
+      <p class="w-3/4 p-4">{{ post.summary }}</p>
+    </a>
+  {% endfor %}
+</div>

@@ -1,0 +1,9 @@
+baseUrl: $PRIMARY_SITE_URL
+enabled: true
+handle: default
+hasUrls: true
+language: en-US
+name: CraftDev
+primary: true
+siteGroup: 74c4700b-51f5-4a51-b2b9-365b66f247b3 # Craft3
+sortOrder: 1

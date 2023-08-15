@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 19fd73a5-2f81-42dd-8a69-2bcbd0c4053a # Common
+handle: tabs
+instructions: ''
+name: Tabs
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_tabs}}'
+  maxBlocks: ''
+  minBlocks: ''
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix
