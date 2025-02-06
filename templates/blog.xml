@@ -18,7 +18,9 @@
         <author>{{ entry.author }}</author>
         <guid>{{ entry.url }}</guid>
         <description>
-          <![CDATA[{{ entry.summary }}]]>
+          <![CDATA[
+            {{ entry.summary }}]
+          ]>
         </description>
       </item>
     {% endfor %}
